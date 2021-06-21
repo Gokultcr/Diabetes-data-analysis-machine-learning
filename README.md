@@ -11,3 +11,10 @@ The dataset consists of 768 rows (patients), with 9 features. Which includes:
 * DiabetesPedigreeFunction
 * Age
 * Outcome (Outcome 0 means No diabetes, 1 means diabetes)
+
+# Python Libraries
+* numpy
+* pandas
+* matplotlib
+* seaborn
+* sklearn
