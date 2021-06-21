@@ -28,3 +28,8 @@ The dataset consists of 768 rows (patients), with 9 features. Which includes:
 * Support Vector Machine
 * Gaussian Naive Bayes
 * Neural Networks
+
+
+# Summary
+
+Here the diabetes data set analysed and different types of machine learning models for classification and regressions are applied. For the better results parameters are tuned and applied methods for reducing overfiting.
