@@ -18,3 +18,13 @@ The dataset consists of 768 rows (patients), with 9 features. Which includes:
 * matplotlib
 * seaborn
 * sklearn
+
+# Machine-Learning Algorithms
+* Logistic Regression
+* k-Nearest Neighbors
+* Decision Tree
+* Random Forest
+* Gradient Boost
+* Support Vector Machine
+* Gaussian Naive Bayes
+* Neural Networks
