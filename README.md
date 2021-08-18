@@ -1,6 +1,6 @@
 # Diabetes-data-analysis-machine-learning
 
-Here basic data analysis and different machine-learning algorithms are applied over diabetes data set.
+Here basic data analysis and different machine-learning algorithms are applied over diabetes dataset.
 The dataset consists of 768 rows (patients), with 9 features. Which includes:
 * Pregnancies
 * Glucose
@@ -32,4 +32,4 @@ The dataset consists of 768 rows (patients), with 9 features. Which includes:
 
 # Summary
 
-Here the diabetes data set analysed and different types of machine learning models for classification and regressions are applied. For the better results parameters are tuned and applied methods for reducing overfiting.
+Here the diabetes dataset analysed and different types of machine learning models for classification and regressions are applied. For the better results parameters are tuned and applied methods for reducing overfiting.
